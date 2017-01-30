@@ -15,7 +15,7 @@ in chat window type
 
 -and/or-
 
-displays automatically when stopped by guard
+displays automatically when interracting with guard and/or fence
 
 #Created by
 
